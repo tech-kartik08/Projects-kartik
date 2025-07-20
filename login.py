@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # from tkinter import *
 # from tkinter import Tk, ttk
 # from tkinter import messagebox
@@ -145,7 +145,7 @@ Label(frame_up, width=40, height=1, bg=btn_color).place(x=10, y=45)
 
 create_login_widgets()
 
-=======
+
 from tkinter import *
 from tkinter import Tk, ttk
 from tkinter import messagebox
@@ -216,5 +216,5 @@ e_pass.place(x=14,y=110)
 button_confirm = Button(frame_down,text="logIn",bg=co3,fg=co1,width=39,height=2,font=("Ivy 9 bold"),command=check_password)
 button_confirm.place(x=15,y=180)
 
->>>>>>> 85cde389e1e4fed4d5ce2004cd57f57a5a271998
+
 window.mainloop()
