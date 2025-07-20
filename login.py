@@ -71,7 +71,7 @@
 # window.mainloop()
 from tkinter import *
 from tkinter import messagebox
-
+# hi my self kartik
 # --------- UI Colors ---------
 bg_color = "beige"
 text_color = "black"
