@@ -187,7 +187,7 @@ def new_window():
     username= Label(frame_down, text="Welcome " + credentails[0],height=1,anchor=NW,bg=co1, fg=co2, font=('Ivy 12'))
     username.place(x=10,y=10)
     
-
+print("hi")
     
 frame_up = Frame(window, width=310, height=50, bg=co1)
 frame_up.grid(row=0,column=0)
